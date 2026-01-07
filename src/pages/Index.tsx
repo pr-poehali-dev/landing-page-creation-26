@@ -86,7 +86,7 @@ const Index = () => {
         <div className="absolute inset-0 opacity-20">
           <div className="absolute inset-0 bg-gradient-to-br from-accent/30 to-transparent" />
           <img
-            src="https://cdn.poehali.dev/projects/109a09cd-b295-42d3-9cd1-41a89616feff/files/cb1a8aad-3420-4e02-ad98-621e7b746d81.jpg"
+            src="https://cdn.poehali.dev/files/Peregovory.jpg"
             alt="Book Cover"
             className="w-full h-full object-cover"
           />
